@@ -1,2 +1,5 @@
-# jamal-portfolio
-Personal portfolio — AI/ML systems, RAG, and automation projects. Work in progress.
+# Jamal Portfolio
+
+Personal portfolio site — work in progress.
+
+Live: https://jamal-ai-dev.github.io/jamal-portfolio/
